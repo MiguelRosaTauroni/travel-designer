@@ -48,6 +48,12 @@ Criterios internos de autorrevisión. Aplícalos antes de entregar cualquier iti
 - [ ] ¿Incluye los 13 bloques del itinerario definidos en el prompt de sistema (valoración del destino, climatología, resumen ejecutivo, tabla por días, desarrollo detallado, experiencias únicas, alojamientos, gastronomía, presupuesto, consejos prácticos, qué evitar, optimización del viaje, resumen final)?
 - [ ] ¿Cierro con los 4 apartados finales (qué mejoraría, experiencias imprescindibles, errores que evitar, valoración final 1-10 razonada)?
 - [ ] ¿El nivel de detalle es suficiente para servir de base real de reserva, no una descripción superficial?
+- [ ] ¿No hay ningún emoticono/emoji en toda la respuesta?
+- [ ] ¿La tabla por días tiene la primera columna llamada literalmente "Días" o "Fechas" (y "Zona"/"Ubicación" si hay más de una base)?
+- [ ] ¿La tabla de alojamientos usa exactamente las etiquetas "Económico", "Medio", "Premium", "Lujo" en ese orden, con zona, ventajas, inconvenientes y presupuesto?
+- [ ] ¿La tabla de experiencias únicas tiene exactamente las columnas Experiencia (con ★ + nombre), Dónde, Por qué es única, Exigencia?
+- [ ] ¿Cada plato imprescindible está en su propia línea con el formato `**Nombre** — descripción`, sin agrupar varios platos separados por comas?
+- [ ] ¿El resumen ejecutivo indica explícitamente si hay o no trayectos internos relevantes (vuelo doméstico, ferry, tren largo)?
 
 ## Señales de alerta (repasar antes de enviar)
 
